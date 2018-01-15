@@ -10,8 +10,8 @@
         "/favicon.ico",
         "/index.html",
         "/MaterialIcons-Regular.a37b0c01c0baf1888ca8.ttf",
-        "/inline.11b52f9e43325e115186.bundle.js",
-        "/main.3916fb40bb9e81b1515b.bundle.js",
+        "/inline.76369473fdf3af38462b.bundle.js",
+        "/main.8f36a5ff0c872fa96d04.bundle.js",
         "/polyfills.f039bbc7aaddeebcb9aa.bundle.js",
         "/styles.25c1cf5c6c52f9b594e1.bundle.css"
       ],
@@ -22,6 +22,7 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "/assets/changelog.json",
         "/assets/icons/16.png",
         "/assets/icons/180.png",
         "/assets/icons/192.png",
@@ -35,17 +36,18 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/inline.11b52f9e43325e115186.bundle.js": "d85f757dda2ceb6b232faacc3984aef1ec33e1ca",
+    "/inline.76369473fdf3af38462b.bundle.js": "90ebb6c4250356fa98b069ad7172e6f6ac9bdbb0",
+    "/assets/changelog.json": "4f7361d08bd03cc4f221fec070b39b7b8e5b946d",
+    "/main.8f36a5ff0c872fa96d04.bundle.js": "3318af2960f996fbc49d15eada0d70e319239d9c",
     "/assets/icons/16.png": "dab918ee701cd9c95d43a707802769b6ba8a9595",
-    "/main.3916fb40bb9e81b1515b.bundle.js": "207359406a8f924f1247031ba1e7dd3b7f9bb89a",
-    "/assets/icons/180.png": "a8b916fb5eba39a7062e885d26fe72a6a5b64e11",
     "/polyfills.f039bbc7aaddeebcb9aa.bundle.js": "669df48deb7f2148518a6e8e9490ba8ee2db7000",
-    "/assets/icons/192.png": "5f78be1a2239dd7f9d9443c9ae431f4648b76a73",
+    "/assets/icons/180.png": "a8b916fb5eba39a7062e885d26fe72a6a5b64e11",
     "/styles.25c1cf5c6c52f9b594e1.bundle.css": "65e9c082ececba6bdfb057c659e80d84e949db6e",
-    "/assets/icons/32.png": "74aa4dbac9e5c4cd787ef6003534ee8dc77d2556",
+    "/assets/icons/192.png": "5f78be1a2239dd7f9d9443c9ae431f4648b76a73",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/assets/icons/32.png": "74aa4dbac9e5c4cd787ef6003534ee8dc77d2556",
+    "/index.html": "dc006d2550611573cde5412e64ba1e932fdfeb8c",
     "/assets/icons/512.png": "5bb163cca76b258ccc522f106978d9f69d564abe",
-    "/index.html": "913294a71be2ee0c03bfdfe7ae3ad98ccc6ed1e4",
     "/MaterialIcons-Regular.a37b0c01c0baf1888ca8.ttf": "fc05de31234e0090f7ddc28ce1b23af4026cb1da"
   }
 }
