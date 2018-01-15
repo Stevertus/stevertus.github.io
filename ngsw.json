@@ -10,10 +10,10 @@
         "/favicon.ico",
         "/index.html",
         "/MaterialIcons-Regular.a37b0c01c0baf1888ca8.ttf",
-        "/inline.eb9fbd435554ff4efb53.bundle.js",
-        "/main.07338f8d6c41ab2b6a74.bundle.js",
+        "/inline.1ae85da3efb340a7fb86.bundle.js",
+        "/main.36bea822a32ba3e1720a.bundle.js",
         "/polyfills.f039bbc7aaddeebcb9aa.bundle.js",
-        "/styles.25c1cf5c6c52f9b594e1.bundle.css"
+        "/styles.69b44010b0cc325c9f38.bundle.css"
       ],
       "patterns": []
     },
@@ -36,17 +36,17 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/inline.eb9fbd435554ff4efb53.bundle.js": "1b09963457997089730bd0e221ca1eb7257e7079",
+    "/inline.1ae85da3efb340a7fb86.bundle.js": "1b0fc72eb4f7ac32e4a1d125df312c90839984c1",
     "/assets/changelog.json": "1e0157dcae9e4ca99299da90a654160c30dd7d28",
-    "/main.07338f8d6c41ab2b6a74.bundle.js": "bfda69d8081f7b653ec29765ca17e50f83f8ae15",
+    "/main.36bea822a32ba3e1720a.bundle.js": "da186cc5827053019acdb0967fa828ea56b75848",
     "/assets/icons/16.png": "dab918ee701cd9c95d43a707802769b6ba8a9595",
-    "/polyfills.f039bbc7aaddeebcb9aa.bundle.js": "669df48deb7f2148518a6e8e9490ba8ee2db7000",
+    "/polyfills.f039bbc7aaddeebcb9aa.bundle.js": "e3b775b0e3c3fb01e0e35582d4d4b914018e22ef",
     "/assets/icons/180.png": "a8b916fb5eba39a7062e885d26fe72a6a5b64e11",
-    "/styles.25c1cf5c6c52f9b594e1.bundle.css": "65e9c082ececba6bdfb057c659e80d84e949db6e",
+    "/styles.69b44010b0cc325c9f38.bundle.css": "f29aad08be713b04a48446052cc3815d2e7cc2ba",
     "/assets/icons/192.png": "5f78be1a2239dd7f9d9443c9ae431f4648b76a73",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
     "/assets/icons/32.png": "74aa4dbac9e5c4cd787ef6003534ee8dc77d2556",
-    "/index.html": "0e8f37003f15fe818604fadab00da8735acf39a4",
+    "/index.html": "9a680bd437dcb4a71aeb81b86ce3737f1bb6a6b1",
     "/assets/icons/512.png": "5bb163cca76b258ccc522f106978d9f69d564abe",
     "/MaterialIcons-Regular.a37b0c01c0baf1888ca8.ttf": "fc05de31234e0090f7ddc28ce1b23af4026cb1da"
   }
