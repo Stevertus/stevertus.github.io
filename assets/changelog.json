@@ -1,4 +1,11 @@
 [{
+  "version": "0.2.1",
+  "changes": [
+    "Navigation überarbeitet",
+    "Sprachen dynamisch hinzufügen",
+    "Buttons des Vokabelkastens fest gemacht"
+  ]
+},{
   "version": "0.2",
   "changes": [
     "ImportBugs behoben.",
