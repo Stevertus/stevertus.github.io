@@ -1,0 +1,53 @@
+{
+  "configVersion": 3,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/MaterialIcons-Regular.a37b0c01c0baf1888ca8.ttf",
+        "/inline.1a75d9e54ddf6cf6978f.bundle.js",
+        "/main.a4bbb13b284f158fe65a.bundle.js",
+        "/polyfills.f039bbc7aaddeebcb9aa.bundle.js",
+        "/styles.69b44010b0cc325c9f38.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/changelog.json",
+        "/assets/icons/16.png",
+        "/assets/icons/180.png",
+        "/assets/icons/192.png",
+        "/assets/icons/32.png",
+        "/assets/icons/512.png"
+      ],
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/icon\\?family=Material\\+Icons"
+      ]
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/inline.1a75d9e54ddf6cf6978f.bundle.js": "7dc38a1f588ed1ca22abb69dee59e538d64aff92",
+    "/assets/changelog.json": "17e3e1d626355de54430b14821760519c373407e",
+    "/main.a4bbb13b284f158fe65a.bundle.js": "ff4a8b97f35ba9c18a69b9daa5711c66dbf619c9",
+    "/assets/icons/16.png": "dab918ee701cd9c95d43a707802769b6ba8a9595",
+    "/polyfills.f039bbc7aaddeebcb9aa.bundle.js": "e3b775b0e3c3fb01e0e35582d4d4b914018e22ef",
+    "/assets/icons/180.png": "a8b916fb5eba39a7062e885d26fe72a6a5b64e11",
+    "/styles.69b44010b0cc325c9f38.bundle.css": "f29aad08be713b04a48446052cc3815d2e7cc2ba",
+    "/assets/icons/192.png": "5f78be1a2239dd7f9d9443c9ae431f4648b76a73",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/assets/icons/32.png": "74aa4dbac9e5c4cd787ef6003534ee8dc77d2556",
+    "/index.html": "fc1a5cb930d064790a5f016aed7c3f9ed7d2fa9d",
+    "/assets/icons/512.png": "5bb163cca76b258ccc522f106978d9f69d564abe",
+    "/MaterialIcons-Regular.a37b0c01c0baf1888ca8.ttf": "fc05de31234e0090f7ddc28ce1b23af4026cb1da"
+  }
+}

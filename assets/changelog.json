@@ -1,0 +1,26 @@
+[{
+  "version": "0.2.1",
+  "changes": [
+    "Navigation überarbeitet",
+    "Sprachen dynamisch hinzufügen",
+    "Buttons des Vokabelkastens fest gemacht"
+  ]
+},{
+  "version": "0.2",
+  "changes": [
+    "ImportBugs behoben.",
+    "automatische Großschreibung und Formfill entfernt"
+  ]
+},{
+  "version": "0.1",
+  "changes": [
+    "changelog hinzugefügt!",
+    "Grundapp fertig",
+    "Import/Export funktion"
+  ]
+},{
+  "version": "0.0",
+  "changes": [
+    "Projekt angefangen"
+  ]
+}]

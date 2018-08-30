@@ -1,0 +1,38 @@
+{
+    "short_name": "Vocabular",
+    "name": "Vocabular - Just a vocab app. Learn, study, train.",
+    "description": "This app provides you and many others the possibility to share vocabulary, learn it efficient and be successfull. It it really as easy as you think. Start Now!",
+    "start_url": "/",
+    "categories": ["education","tools","learn","vocabulary","productivity","utilities & tools"],
+    "theme_color": "#3F51B5",
+    "background_color": "#F5F5F5",
+    "display": "standalone",
+    "lang": "en",
+    "icons":[
+      {
+        "src":"/assets/icons/180.png",
+        "sizes": "180x180",
+        "type":"image/png"
+      },
+      {
+            "src": "/assets/icons/192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+              "src": "/assets/icons/32.png",
+              "sizes": "32x32",
+              "type": "image/png"
+          },
+          {
+              "src": "/assets/icons/16.png",
+              "sizes": "16x16",
+              "type": "image/png"
+          }
+      ]
+}
