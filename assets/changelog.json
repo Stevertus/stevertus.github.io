@@ -1,4 +1,12 @@
 [{
+  "version": "0.3",
+  "changes": [
+    "Vokabeltest: Felder werden automatisch ausgewählt",
+    "Vokabeltest: Mit Tab oder Enter in einem Feld kann das nächste ausgewählt werden",
+    "Vokabeltest: Großschreibung und Autokorrektur deaktiviert"
+    "Man kann jetzt entscheiden, ob die Note in Punkteformat oder Notenformat angegeben wird"
+  ]
+},{
   "version": "0.2.1",
   "changes": [
     "Navigation überarbeitet",
